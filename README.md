@@ -1,7 +1,7 @@
-Beeper
+BEP
 ======
 
-A javascript webpage that Beeps every 30 seconds for 5 minutes for circuit training workouts
+A javascript webpage that BEPS every 5 minutes
 
 Save the following files into a directory in your computer:
 
@@ -10,3 +10,6 @@ beep.html
 beep.mp3
 
 Open heep.html in your browser and click start to hear the beeps.
+
+
+this still does not work
