@@ -12,4 +12,4 @@ beep.mp3
 Open heep.html in your browser and click start to hear the beeps.
 
 
-this still does not work
+this actually does work now, but it beps twice
