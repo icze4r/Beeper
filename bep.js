@@ -1,4 +1,4 @@
-var beep = new Audio("beep.mp3");
+var beep = new Audio("bep.mp3");
 var num = 0;
 var max = 11;
 var beeperID = null;
@@ -13,7 +13,6 @@ function incrementNumber() {
   clearInterval(beeperID);
   num = 0;
   beeperID = null;
-  return alert("Done");
  }
 
 
@@ -21,7 +20,7 @@ function incrementNumber() {
 
 function start () {
  beep.play()
- beeperID = setInterval(incrementNumber, 30000);
+ beeperID = setInterval(incrementNumber, 300000);
 }
 //clear timeout
 function stop() {
